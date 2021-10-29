@@ -1,0 +1,187 @@
+time="2021-10-29T15:04:44+08:00" level=info msg="日志功能初始化成功" func=gin-admin/app.InitAppLog file="D:/workspace/go/gin/admin/app/log.go:26"
+time="2021-10-29T15:05:01+08:00" level=info msg="\nheader:\n\tSec-Fetch-Mode:[navigate]\n\tSec-Fetch-User:[?1]\n\tAccept-Encoding:[gzip, deflate, br]\n\tConnection:[keep-alive]\n\tUpgrade-Insecure-Requests:[1]\n\tAccept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9]\n\tSec-Fetch-Site:[none]\n\tSec-Ch-Ua:[\"Google Chrome\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\"]\n\tSec-Ch-Ua-Mobile:[?0]\n\tSec-Ch-Ua-Platform:[\"Windows\"]\n\tUser-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36]\n\tSec-Fetch-Dest:[document]\n\tAccept-Language:[zh-CN,zh;q=0.9]\n" func=gin-admin/app.LogMiddle file="D:/workspace/go/gin/admin/app/log.go:36"
+[2021-10-29 15:22:19] [info] 日志功能初始化成功
+[2021-10-29 15:22:42] [info] 
+header:
+	Sec-Ch-Ua:["Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"]
+	Sec-Ch-Ua-Mobile:[?0]
+	Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9]
+	Sec-Fetch-Site:[none]
+	Accept-Language:[zh-CN,zh;q=0.9]
+	Cache-Control:[max-age=0]
+	User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36]
+	Sec-Fetch-Mode:[navigate]
+	Accept-Encoding:[gzip, deflate, br]
+	Connection:[keep-alive]
+	Sec-Ch-Ua-Platform:["Windows"]
+	Upgrade-Insecure-Requests:[1]
+	Sec-Fetch-User:[?1]
+	Sec-Fetch-Dest:[document]
+
+[2021-10-29 15:23:13] [info] 
+header:
+	Sec-Fetch-Site:[none]
+	Sec-Fetch-Mode:[navigate]
+	Sec-Fetch-Dest:[document]
+	Accept-Language:[zh-CN,zh;q=0.9]
+	Cache-Control:[max-age=0]
+	Sec-Ch-Ua-Platform:["Windows"]
+	Upgrade-Insecure-Requests:[1]
+	User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36]
+	Accept-Encoding:[gzip, deflate, br]
+	Sec-Fetch-User:[?1]
+	Connection:[keep-alive]
+	Sec-Ch-Ua:["Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"]
+	Sec-Ch-Ua-Mobile:[?0]
+	Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9]
+
+[2021-10-29 15:27:06] [info] 日志功能初始化成功
+[2021-10-29 15:27:10] [info] 
+header:
+	Sec-Fetch-Site:none
+	Sec-Fetch-Mode:navigate
+	Accept-Language:zh-CN,zh;q=0.9
+	Cache-Control:max-age=0
+	Sec-Ch-Ua:"Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+	User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+	Sec-Fetch-User:?1
+	Accept-Encoding:gzip, deflate, br
+	Sec-Ch-Ua-Mobile:?0
+	Sec-Ch-Ua-Platform:"Windows"
+	Sec-Fetch-Dest:document
+	Connection:keep-alive
+	Upgrade-Insecure-Requests:1
+	Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+[2021-10-29 15:35:13] [info] 日志功能初始化成功
+[2021-10-29 15:35:36] [info] 
+HEADER:
+	Sec-Ch-Ua-Platform:"Windows"
+	User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+	Accept-Encoding:gzip, deflate, br
+	Sec-Ch-Ua-Mobile:?0
+	Upgrade-Insecure-Requests:1
+	Sec-Fetch-Site:none
+	Sec-Fetch-Mode:navigate
+	Sec-Fetch-User:?1
+	Sec-Fetch-Dest:document
+	Accept-Language:zh-CN,zh;q=0.9
+	Connection:keep-alive
+	Cache-Control:max-age=0
+	Sec-Ch-Ua:"Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+	Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+GET:
+
+[2021-10-29 15:36:44] [info] 日志功能初始化成功
+[2021-10-29 15:36:46] [info] 
+HEADER:
+	Sec-Ch-Ua:"Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+	Sec-Ch-Ua-Platform:"Windows"
+	User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+	Sec-Fetch-Site:none
+	Sec-Fetch-Mode:navigate
+	Sec-Fetch-User:?1
+	Cache-Control:max-age=0
+	Sec-Ch-Ua-Mobile:?0
+	Accept-Language:zh-CN,zh;q=0.9
+	Connection:keep-alive
+	Upgrade-Insecure-Requests:1
+	Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+	Sec-Fetch-Dest:document
+	Accept-Encoding:gzip, deflate, br
+GET:
+
+[2021-10-29 15:38:56] [info] 
+HEADER:
+	Accept:*/*
+	Cache-Control:no-cache
+	Postman-Token:76752af1-4a3a-41d4-9065-5bd423cf9e1c
+	Accept-Encoding:gzip, deflate, br
+	Connection:keep-alive
+	Content-Type:multipart/form-data; boundary=--------------------------491910822033742398234565
+	User-Agent:PostmanRuntime/7.26.8
+	Content-Length:275
+GET:
+
+[2021-10-29 15:39:07] [info] 
+HEADER:
+	Connection:keep-alive
+	User-Agent:PostmanRuntime/7.26.8
+	Cache-Control:no-cache
+	Postman-Token:4fbcdb67-e0c1-477f-a3f7-32737a8db053
+	Accept-Encoding:gzip, deflate, br
+	Accept:*/*
+	Content-Type:multipart/form-data; boundary=--------------------------942899188027764813563548
+	Content-Length:275
+GET:
+
+[2021-10-29 15:39:38] [info] 日志功能初始化成功
+[2021-10-29 15:39:41] [info] 
+HEADER:
+	Postman-Token:76b104df-4a05-460e-8c90-feeff8953dd0
+	Accept-Encoding:gzip, deflate, br
+	Content-Type:multipart/form-data; boundary=--------------------------336696057256424216193280
+	User-Agent:PostmanRuntime/7.26.8
+	Accept:*/*
+	Cache-Control:no-cache
+	Connection:keep-alive
+	Content-Length:275
+GET:
+/?a=100
+POST:
+
+[2021-10-29 15:54:37] [info] 日志功能初始化成功
+[2021-10-29 15:54:40] [info] 
+HEADER:
+	Accept-Encoding:gzip, deflate, br
+	Connection:keep-alive
+	Content-Type:multipart/form-data; boundary=--------------------------992844459424417408430074
+	Content-Length:275
+	Accept:*/*
+	Postman-Token:ba65f1fc-7e81-4d47-844f-145e9f3e84c8
+	User-Agent:PostmanRuntime/7.26.8
+	Cache-Control:no-cache
+GET:
+/?a=100
+POST:
+----------------------------992844459424417408430074
+Content-Disposition: form-data; name="message"
+
+asdf
+----------------------------992844459424417408430074
+Content-Disposition: form-data; name="nick"
+
+123123
+----------------------------992844459424417408430074--
+
+
+[2021-10-29 15:55:59] [info] 
+HEADER:
+	Content-Type:application/json
+	Postman-Token:5257a584-367d-46c5-8e27-39c31d2dfa6e
+	Connection:keep-alive
+	User-Agent:PostmanRuntime/7.26.8
+	Accept:*/*
+	Cache-Control:no-cache
+	Accept-Encoding:gzip, deflate, br
+	Content-Length:76
+GET:
+/?a=100
+POST:
+{"name":"BeJson","url":"http://www.bejson.com","page":88,"isNonProfit":true}
+
+[2021-10-29 15:56:56] [info] 
+HEADER:
+	Accept:*/*
+	Postman-Token:cb09334e-a50e-458e-a769-75637419af9f
+	User-Agent:PostmanRuntime/7.26.8
+	Cache-Control:no-cache
+	Accept-Encoding:gzip, deflate, br
+	Connection:keep-alive
+	Content-Type:application/x-www-form-urlencoded
+	Content-Length:14
+GET:
+/?a=100
+POST:
+cc=123&dd=asdf
+

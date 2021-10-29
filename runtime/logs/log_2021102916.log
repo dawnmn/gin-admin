@@ -1,0 +1,48 @@
+[2021-10-29 16:13:59] [info] 日志功能初始化成功
+[2021-10-29 16:14:10] [info] [request]
+Method:POST Server:localhost:8900 Remote:[::1]:57822 Url:/?a=100
+HEADER:
+User-Agent:PostmanRuntime/7.26.8
+Cache-Control:no-cache
+Postman-Token:f855f441-607d-4959-b69b-bba8517ceb7b
+Accept-Encoding:gzip, deflate, br
+Content-Type:application/x-www-form-urlencoded
+Content-Length:14
+Accept:*/*
+Connection:keep-alive
+BODY:
+cc=123&dd=asdf
+
+[2021-10-29 16:16:55] [info] 日志功能初始化成功
+[2021-10-29 16:17:03] [info] [request]
+Method:POST Host:localhost:8900 Remote:[::1]:58089 Url:/?a=100
+
+HEADER
+User-Agent:PostmanRuntime/7.26.8
+Cache-Control:no-cache
+Postman-Token:bb211346-9d4f-469f-9253-9e4275b29e2f
+Accept-Encoding:gzip, deflate, br
+Content-Length:14
+Accept:*/*
+Connection:keep-alive
+Content-Type:application/x-www-form-urlencoded
+
+BODY
+cc=123&dd=asdf
+
+[2021-10-29 16:18:50] [info] [request]
+Method:GET Host:localhost:8900 Remote:[::1]:58089 Url:/?a=100
+
+HEADER
+Cache-Control:no-cache
+User-Agent:PostmanRuntime/7.26.8
+Postman-Token:a1e5eafd-7727-4ca1-8cc8-34fdad57d43c
+Accept-Encoding:gzip, deflate, br
+Connection:keep-alive
+Content-Type:application/x-www-form-urlencoded
+Content-Length:14
+Accept:*/*
+
+BODY
+cc=123&dd=asdf
+

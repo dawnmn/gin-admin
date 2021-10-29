@@ -1,0 +1,60 @@
+[2021-10-29 18:18:29] [info] [request]
+Method:GET Host:localhost:8900 Remote:[::1]:65155 Url:/Admin/Login
+
+HEADER
+Postman-Token:eea4fdde-e838-4167-a5fb-7fae244ae52e
+Accept-Encoding:gzip, deflate, br
+Content-Type:application/x-www-form-urlencoded
+User-Agent:PostmanRuntime/7.26.8
+Accept:*/*
+Cache-Control:no-cache
+Connection:keep-alive
+Content-Length:14
+
+BODY
+cc=123&dd=asdf
+
+[2021-10-29 18:21:21] [info] [request]
+Method:POST Host:localhost:8900 Remote:[::1]:65184 Url:/Admin/Login
+
+HEADER
+User-Agent:PostmanRuntime/7.26.8
+Accept-Encoding:gzip, deflate, br
+Connection:keep-alive
+Content-Type:application/x-www-form-urlencoded
+Content-Length:14
+Accept:*/*
+Cache-Control:no-cache
+Postman-Token:c7030f17-c0ea-4968-9c3c-448c960593a5
+
+BODY
+cc=123&dd=asdf
+
+[2021-10-29 18:25:17] [info] [request]
+POST /Admin/Login localhost:8900 [::1]:65221
+HEADER
+Cache-Control:no-cache
+Postman-Token:7e894379-f564-40d8-923d-901bb7fb38e7
+Connection:keep-alive
+Content-Type:application/x-www-form-urlencoded
+Content-Length:14
+User-Agent:PostmanRuntime/7.26.8
+Accept:*/*
+Accept-Encoding:gzip, deflate, br
+BODY
+cc=123&dd=asdf
+
+[2021-10-29 18:27:52] [info] [request]
+POST /Admin/Login localhost:8900 [::1]:65252
+HEADER
+User-Agent:PostmanRuntime/7.26.8
+Content-Type:application/x-www-form-urlencoded
+Content-Length:14
+Accept:*/*
+Cache-Control:no-cache
+Postman-Token:cc66291e-968a-45de-bfc1-946b1f5e097a
+Accept-Encoding:gzip, deflate, br
+Connection:keep-alive
+BODY
+cc=123&dd=asdf
+

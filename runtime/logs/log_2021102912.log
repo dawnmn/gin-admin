@@ -1,0 +1,2 @@
+time="2021-10-29T12:12:46+08:00" level=info msg="成功" func=gin-admin/app.InitAppLog file="D:/workspace/go/gin/admin/app/log.go:22"
+time="2021-10-29T12:38:37+08:00" level=info msg="日志功能初始化成功" func=gin-admin/app.InitAppLog file="D:/workspace/go/gin/admin/app/log.go:24"
